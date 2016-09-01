@@ -6,6 +6,7 @@
 
 int main()
 {
+	printf("shdjfhs");
     return 0;
 }
 
